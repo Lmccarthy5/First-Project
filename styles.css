@@ -1131,6 +1131,11 @@ footer {
         width: 100%;
     }
 
+    .plan__bottom {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
     .testimonial__bottom {
         flex-direction: column;
         align-items: center;
